@@ -1,0 +1,934 @@
+{
+  "type": "parent",
+  "key": 1,
+  "tag": "body",
+  "attrs": {},
+  "children": [{
+    "type": "parent",
+    "key": 2,
+    "tag": "h1",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 3,
+      "val": "UK inflation rises at fastest rate for 40 years as food costs jump",
+      "parent": {
+        "tag": "h1"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 4,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "parent",
+      "key": 5,
+      "tag": "b",
+      "attrs": {},
+      "children": [{
+        "type": "child",
+        "key": 6,
+        "val": "By Michael Race",
+        "parent": {
+          "tag": "b"
+        }
+      }]
+    }, {
+      "type": "parent",
+      "key": 7,
+      "tag": "br",
+      "attrs": {},
+      "children": []
+    }, {
+      "type": "child",
+      "key": 8,
+      "val": "Business reporter, BBC News",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 9,
+    "tag": "img",
+    "attrs": {
+      "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C6B3/production/_125576805_976_epa_supermarket1.jpg"
+    },
+    "children": []
+  }, {
+    "type": "parent",
+    "key": 10,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "parent",
+      "key": 11,
+      "tag": "b",
+      "attrs": {},
+      "children": [{
+        "type": "child",
+        "key": 12,
+        "val": "Prices are continuing to rise at their fastest rate for 40 years with food costs, particularly for bread, cereal and meat, climbing.",
+        "parent": {
+          "tag": "b"
+        }
+      }]
+    }]
+  }, {
+    "type": "parent",
+    "key": 13,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 14,
+      "val": "UK inflation, the rate at which prices rise, edged up to 9.1% in the 12 months to May, from 9% in April, ",
+      "parent": {
+        "tag": "p"
+      }
+    }, {
+      "type": "parent",
+      "key": 15,
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/may2022"
+      },
+      "children": [{
+        "type": "child",
+        "key": 16,
+        "val": "the Office for National Statistics (ONS) said",
+        "parent": {
+          "tag": "a"
+        }
+      }]
+    }, {
+      "type": "child",
+      "key": 17,
+      "val": ".",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 18,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 19,
+      "val": "Fuel and energy prices are the biggest drivers of inflation, but the ONS said food costs had pushed it up further.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 20,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 21,
+      "val": "Workers and unions are pushing for pay rises to cope with higher prices.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 22,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 23,
+      "val": "But the government has warned against employers handing out big increases in salaries over fears of a 1970s style \"inflationary spiral\" where firms hike wages and then",
+      "parent": {
+        "tag": "p"
+      }
+    }, {
+      "type": "parent",
+      "key": 24,
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.bbc.co.uk/news/business-61846102"
+      },
+      "children": [{
+        "type": "child",
+        "key": 25,
+        "val": " past the cost onto customers through higher prices.",
+        "parent": {
+          "tag": "a"
+        }
+      }]
+    }]
+  }, {
+    "type": "parent",
+    "key": 26,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 27,
+      "val": "Currently, inflation is at the highest level since March 1982, when it also stood at 9.1% and the Bank of England has warned it will reach 11% this year.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 28,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 29,
+      "val": "Inflation is the pace at which prices are rising. For example, if a bottle of milk costs £1 and that rises by 5p compared with a year earlier, then milk inflation is 5%.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 30,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "parent",
+      "key": 31,
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.bbc.co.uk/news/business-61813857"
+      },
+      "children": [{
+        "type": "child",
+        "key": 32,
+        "val": "In a BBC-commissioned survey of more than 4,000 peopl",
+        "parent": {
+          "tag": "a"
+        }
+      }]
+    }, {
+      "type": "child",
+      "key": 33,
+      "val": " e, 82% said they thought their wages should increase to match the rising price of goods and services.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 34,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 35,
+      "val": "Households were hit by an unprecedented £700-a-year increase in energy costs in April, and fuel price rises in June mean it costs more than £100 to fill an average family car with petrol.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 36,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 37,
+      "val": "Rail workers walked out on Tuesday causing severe disruption, with further strikes planned for Thursday and Saturday in a dispute over pay, jobs and conditions.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 38,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 39,
+      "val": "The Rail, Maritime and Transport union is calling for a pay rise of 7%, while employers have offered a maximum of 3%.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 40,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 41,
+      "val": "Unison, which represents public sector workers, accused ministers of \"living on another planet\" over \"talks of public sector pay restraint\".",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 42,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 43,
+      "val": "\"Under-pressure health, care, school and council services desperately need staff to be given a pay boost that matches runaway prices,\" assistant general secretary Jon Richards said.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 44,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 45,
+      "val": "The biggest teachers' union is also warning of potential industrial action over pay.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 46,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 47,
+      "val": "The National Education Union has criticised government proposals for a 3% pay increase for most teachers in England, and called for an \"inflation-plus increase for all teachers\".",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 48,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 49,
+      "val": "But Dominic Raab told the BBC's Today programme: \"We have got to stop making the problem worse by fuelling pay demands that will only see inflation stay higher for longer and that only hurts the poorest the worst.\"",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 50,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 51,
+      "val": "The ONS said rising prices for food and non-alcoholic beverages helped fuel inflation in May.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 52,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 53,
+      "val": "Russia's war in Ukraine has severely restricted wheat and maize supplies, which are used to make bread and cereals, from two of the world's biggest exporters.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 54,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 55,
+      "val": "Ukraine is also a major producer of of sunflower oil, meaning the costs of alternatives have also climbed.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 56,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 57,
+      "val": "Market research firm Kantar has forecast that the ",
+      "parent": {
+        "tag": "p"
+      }
+    }, {
+      "type": "parent",
+      "key": 58,
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.bbc.co.uk/news/business-61878062"
+      },
+      "children": [{
+        "type": "child",
+        "key": 59,
+        "val": "average annual grocery bill in the UK is set to rise by £380",
+        "parent": {
+          "tag": "a"
+        }
+      }]
+    }, {
+      "type": "child",
+      "key": 60,
+      "val": " this year.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 61,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 62,
+      "val": "Supermarket Asda told the BBC some shoppers are setting £30 limits at checkouts and petrol pumps, with customers putting less in their baskets and switching to budget ranges.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 63,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 64,
+      "val": "Grant Fitzner, chief economist at the ONS, said \"widespread food price rises\" meant the cost of goods leaving factories had risen at their fastest rate in 45 years in May, with the cost of raw materials at the highest on record.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 65,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 66,
+      "val": "But he said the steep rises in food and record high petrol prices in May had been stemmed by the price of clothes rising less than they did this time last year, along with a drop in computer game costs.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 67,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 68,
+      "val": "The ONS also revealed average UK house prices increased by 12.4% in the year to April, with average prices now £281,000, £31,000 higher than this time last year.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 69,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 70,
+      "val": "Richard Lim, chief executive of consultancy Retail Economics said after families paid for essentials, \"the amount of spare cash left over to spending on days out, socialising and other treats is shrinking at an astonishing rate\".",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 71,
+    "tag": "h2",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 72,
+      "val": "'We are not doing as much fun stuff'",
+      "parent": {
+        "tag": "h2"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 73,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 74,
+      "val": "Mum Georgia, from Birmingham, said she was having to cut back on trips with her daughter Harper-Faye as a result of prices rises.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 75,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 76,
+      "val": "\"I haven't got the money to go to Sea Life Centres and stuff. That's like, £25 a ticket,\" said she said. \"I can't go out as much as I used to, not a chance. I can't afford it.\"",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 77,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 78,
+      "val": "Responding to the latest inflation rate, Chancellor Rishi Sunak said the government was \"using all the tools at our disposal to bring inflation down and combat rising prices\".",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 79,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 80,
+      "val": "The government ",
+      "parent": {
+        "tag": "p"
+      }
+    }, {
+      "type": "parent",
+      "key": 81,
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.bbc.co.uk/news/business-61583651"
+      },
+      "children": [{
+        "type": "child",
+        "key": 82,
+        "val": "has provided a package of measures,",
+        "parent": {
+          "tag": "a"
+        }
+      }]
+    }, {
+      "type": "child",
+      "key": 83,
+      "val": " worth £15bn in total, to help people cope with soaring prices.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 84,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 85,
+      "val": "But Rachel Reeves, Labour's shadow chancellor said the country needed \"more than sticking plasters to get us back on course - we need a stronger, and more secure economy\".",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 86,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 87,
+      "val": "Liberal Democrat treasury spokesperson Christine Jardine called for a cut in VAT, adding: \"This chancellor has hiked taxes time and time again, refusing to slash them to help with the cost of living emergency.\"",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 88,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 89,
+      "val": "There's no respite from the relentless rise in prices. While at least the rate of rise in inflation appears to have slowed, this is just a pause for breath. Further records in petrol prices and a renewed surge in the price of internationally traded gas after a fire at a key US gas terminal, mean a hot summer, and tricky Autumn.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 90,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 91,
+      "val": "Right now we are also seeing the impact of a notable fall in sterling, compounding the global inflationary pressures, and help to explain why UK inflation is higher than the rest of the G7.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 92,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 93,
+      "val": "Inflation this high is disastrous for the personal finances of millions of households, especially as food prices are unarguably surging. \"Squeeze\" doesn't quite capture how some working families are seeing their entire disposable income wiped out by monthly energy direct debits, or turning up at supermarkets asking the cashiers to stop the till at £30 or £40.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 94,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 95,
+      "val": "The Bank of England may not see this data as a reason to \"act forcefully\" which many see as code for a half a per cent rise in August. They will continue to watch the evolution of wage settlements. while there is little evidence of a spiral in wages and prices so far, it is clear we are at a critical moment for the jobs market.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 96,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 97,
+      "val": "With vacancies at records, unions see a one-off opportunity to increase wages, and will continue to push for double digit rises, for example rejecting Rolls Royce's £2,000 cost of living payment. Employers including the government will resist, but workers may find some wind in their sails in negotiations.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 98,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 99,
+      "val": "One way to try to control how fast prices are rising is to raise interest rates. The aim of this is to increase the cost of borrowing and encourage people to borrow and spend less, and save more.",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 100,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 101,
+      "val": "In a bid to stem the pace of soaring prices, the Bank of England recently increased ",
+      "parent": {
+        "tag": "p"
+      }
+    }, {
+      "type": "parent",
+      "key": 102,
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.bbc.co.uk/news/business-61801362"
+      },
+      "children": [{
+        "type": "child",
+        "key": 103,
+        "val": "UK interest rates from 1% to 1.25%.",
+        "parent": {
+          "tag": "a"
+        }
+      }]
+    }]
+  }, {
+    "type": "parent",
+    "key": 104,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "parent",
+      "key": 105,
+      "tag": "b",
+      "attrs": {},
+      "children": [{
+        "type": "child",
+        "key": 106,
+        "val": "How have you been affected by the issues raised in this story? Please share your experience by emailing ",
+        "parent": {
+          "tag": "b"
+        }
+      }]
+    }, {
+      "type": "parent",
+      "key": 107,
+      "tag": "a",
+      "attrs": {
+        "href": "mailto:haveyoursay@bbc.co.uk?subject=Costofliving61891649"
+      },
+      "children": [{
+        "type": "child",
+        "key": 108,
+        "val": "haveyoursay@bbc.co.uk",
+        "parent": {
+          "tag": "a"
+        }
+      }]
+    }]
+  }, {
+    "type": "parent",
+    "key": 109,
+    "tag": "b",
+    "attrs": {
+      "className": "ssrcss-hmf8ql-BoldText e5tfeyi3"
+    },
+    "children": [{
+      "type": "child",
+      "key": 110,
+      "val": ".",
+      "parent": {
+        "tag": "b"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 111,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 112,
+      "val": "Please include a contact number if you are willing to speak to a BBC journalist. You can also get in touch in the following ways:",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }, {
+    "type": "parent",
+    "key": 113,
+    "tag": "ul",
+    "attrs": {},
+    "children": [{
+      "type": "parent",
+      "key": 114,
+      "tag": "li",
+      "attrs": {},
+      "children": [{
+        "type": "child",
+        "key": 115,
+        "val": "WhatsApp: ",
+        "parent": {
+          "tag": "li"
+        }
+      }, {
+        "type": "parent",
+        "key": 116,
+        "tag": "span",
+        "attrs": {},
+        "children": [{
+          "type": "child",
+          "key": 117,
+          "val": "+44 7756 165803",
+          "parent": {
+            "tag": "span"
+          }
+        }]
+      }]
+    }, {
+      "type": "parent",
+      "key": 118,
+      "tag": "li",
+      "attrs": {},
+      "children": [{
+        "type": "child",
+        "key": 119,
+        "val": "Tweet: ",
+        "parent": {
+          "tag": "li"
+        }
+      }, {
+        "type": "parent",
+        "key": 120,
+        "tag": "a",
+        "attrs": {
+          "href": "http://twitter.com/BBC_HaveYourSay"
+        },
+        "children": [{
+          "type": "child",
+          "key": 121,
+          "val": "@BBC_HaveYourSay",
+          "parent": {
+            "tag": "a"
+          }
+        }]
+      }]
+    }, {
+      "type": "parent",
+      "key": 122,
+      "tag": "li",
+      "attrs": {},
+      "children": [{
+        "type": "parent",
+        "key": 123,
+        "tag": "a",
+        "attrs": {
+          "href": "https://www.bbc.co.uk/send/u16904890"
+        },
+        "children": [{
+          "type": "child",
+          "key": 124,
+          "val": "Upload pictures or video",
+          "parent": {
+            "tag": "a"
+          }
+        }]
+      }]
+    }, {
+      "type": "parent",
+      "key": 125,
+      "tag": "li",
+      "attrs": {},
+      "children": [{
+        "type": "child",
+        "key": 126,
+        "val": "Please read our ",
+        "parent": {
+          "tag": "li"
+        }
+      }, {
+        "type": "parent",
+        "key": 127,
+        "tag": "a",
+        "attrs": {
+          "href": "http://www.bbc.co.uk/usingthebbc/terms/"
+        },
+        "children": [{
+          "type": "child",
+          "key": 128,
+          "val": "terms & conditions",
+          "parent": {
+            "tag": "a"
+          }
+        }]
+      }, {
+        "type": "child",
+        "key": 129,
+        "val": " and ",
+        "parent": {
+          "tag": "li"
+        }
+      }, {
+        "type": "parent",
+        "key": 130,
+        "tag": "a",
+        "attrs": {
+          "href": "http://www.bbc.co.uk/usingthebbc/privacy-policy/"
+        },
+        "children": [{
+          "type": "child",
+          "key": 131,
+          "val": "privacy policy",
+          "parent": {
+            "tag": "a"
+          }
+        }]
+      }]
+    }]
+  }, {
+    "type": "parent",
+    "key": 132,
+    "tag": "p",
+    "attrs": {},
+    "children": [{
+      "type": "child",
+      "key": 133,
+      "val": "If you are reading this page and can't see the form you will need to visit the mobile version of the ",
+      "parent": {
+        "tag": "p"
+      }
+    }, {
+      "type": "parent",
+      "key": 134,
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.bbc.co.uk/news/have_your_say"
+      },
+      "children": [{
+        "type": "child",
+        "key": 135,
+        "val": "BBC website",
+        "parent": {
+          "tag": "a"
+        }
+      }]
+    }, {
+      "type": "child",
+      "key": 136,
+      "val": " to submit your question or comment or you can email us at ",
+      "parent": {
+        "tag": "p"
+      }
+    }, {
+      "type": "parent",
+      "key": 137,
+      "tag": "a",
+      "attrs": {
+        "href": "mailto:Haveyoursay@bbc.co.uk"
+      },
+      "children": [{
+        "type": "child",
+        "key": 138,
+        "val": "HaveYourSay@bbc.co.uk",
+        "parent": {
+          "tag": "a"
+        }
+      }]
+    }, {
+      "type": "child",
+      "key": 139,
+      "val": ". Please include your name, age and location with any submission. ",
+      "parent": {
+        "tag": "p"
+      }
+    }]
+  }]
+}
