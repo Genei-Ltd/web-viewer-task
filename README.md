@@ -1,1 +1,3 @@
 # web-viewer-task
+
+In Genei, users can view web resources submitted through a url via our web viewer. We fetch the html from that url and pass it through an html parser to simplify the content and then convert it to a JSON representation. Within the web viewer, we render this JSON to the DOM. Users can then make highlights over arbitrary ranges of text within the viewer. In this task, we’d like to see your attempt at building a performant web viewer in React. A user should be able to select an arbitrary range of text within the web viewer and make a highlight through a floating toolbar. You may use any libraries you want to help you achieve this. A starter repo for this task is found here.
