@@ -1,4 +1,3 @@
-import './App.css'
 import { webDocument } from './document'
 
 function App() {
