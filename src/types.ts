@@ -35,3 +35,9 @@ export type WebDocumentSelection = {
   anchor: WebDocumentPoint
   focus: WebDocumentPoint
 }
+
+export type WebDocumentHighlight = {
+  id: string
+  color: 'yellow' | 'green'
+  range: WebDocumentRange
+}
